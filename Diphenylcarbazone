@@ -1,0 +1,59 @@
+{{Short description|Chemical compound}}
+{{Use dmy dates|date=May 2020}}
+{{Chembox
+| IUPACName = 1-anilino-3-phenyliminourea
+| OtherNames = {{Unbulleted list
+  | ''1,5-Diphenylcarbazone''
+  | ''sym-Diphenylcarbazone''
+  | ''s-Diphenylcarbazone''
+  | ''Diphenylcarbazone''
+  }}
+| ImageFile = [[File:Diphenylcarbazone.svg|200px|Structural formula]]
+| Section1 = {{Chembox Identifiers
+| CASNo_Ref = {{cascite|correct|CAS}}
+  | CASNo = 119295-41-9
+  | PubChem = 10860
+  | ChemSpiderID = 10402
+  | EC_number = 208-698-0
+| UNII_Ref = {{fdacite|correct|FDA}}
+  | UNII = 96YS88318X
+  | StdInChI=1S/C13H12N4O/c18-13(16-14-11-7-3-1-4-8-11)17-15-12-9-5-2-6-10-12/h1-10,14H,(H,16,18)
+  | StdInChIKey = ZFWAHZCOKGWUIT-UHFFFAOYSA-N
+  | SMILES = C1=CC=C(C=C1)NNC(=O)N=NC2=CC=CC=C2
+  }}
+| Section2 = {{Chembox Properties
+  | Formula = C<sub>13</sub>H<sub>12</sub>N<sub>4</sub>O
+  | MolarMass = 240.26 g·[[Mol (unit)|mol]]<sup>−1</sup>
+  | Appearance = yellow to red odorless solid<ref name="TCIEuropeDe" />
+  | MeltingPt = 157 °C<ref name="ROnline" />
+  | Solubility = poor<ref name="TCIEuropeDe" />
+  }}
+| Section3 = {{Chembox Hazards
+  | Hazards_ref = <ref name="TCIEurope" />
+  | GHSPictograms = {{GHS07}}
+  | GHSSignalWord = Warning
+  | MainHazards =
+  | HPhrases = {{H-phrases|302|315|319|335}}<ref name="Pubchem" />
+  | PPhrases = {{P-phrases|261|264|270|271|280|301+312|302+352|304+340|305+351+338|312|321|330|332+313|337+313|362|403+233|405|501}}<ref name="Pubchem" />
+  }}
+}}
+
+'''1,5-Diphenylcarbazone''' (or simply '''Diphenylcarbazone''') is a [[chemical compound]] from the group of the carbazones (nitrogen compounds with the basic structure HN=N-CO-NH-NH2).
+
+== Properties ==
+Diphenylcarbazone is an orange solid that dissolves well in [[Ethanol]], [[Chloroform]] and [[Benzene]] and is almost insoluble in water.<ref name="TCIEuropeDe" /><ref name="ROnline" /> It forms a [[Coordination complex|purple complex]] compound with [[Mercury (element)|Hg]](II) ions. Likewise, other metal ions, such as [[Chromium|Cr]](III) ions form colored complexes with Diphenylcarbazone. Diphenylcarbazone can be produced from [[Diphenylcarbazide]] via oxidation. Certain commercial products of diphenylcarbazone are a mixture with Diphenylcarbazide, which also forms colored complex compounds with certain metal ions.
+
+== Uses ==
+Diphenylcarbazone is used as an indicator for endpoint determination in [[mercurimetry]]: If a [[Sodium chloride]] solution is titrated with [[Mercury(II) nitrate]] solution, undissociated [[Mercury(II) chloride]] is formed. If the end point is exceeded, then the color complex forms with diphenylcarbazone. This method is used in water analysis to determine chloride.
+If you add a certain amount of mercury(II) nitrate solution in excess to a chloride solution, you can determine the color intensity of the complex [[Photometry (optics)|photometrically]] and thus deduce the chloride content.
+
+== References ==
+{{reflist|refs=
+<ref name=TCIEuropeDe>{{cite web |title=Diphenylcarbazone 538-62-5 {{!}} TCI EUROPE N.V. |url=https://www.tcichemicals.com/BE/en/p/D0881 |website=www.tcichemicals.com}}</ref>
+<ref name=ROnline>Entry on 1,5-Diphenylcarbazon. In: Römpp Online. Georg Thieme Verlag, accessed on 1. August 2014</ref>
+<ref name=Pubchem>{{cite web |title=1,5-Diphenylcarbazone |url=https://pubchem.ncbi.nlm.nih.gov/compound/1_5-Diphenylcarbazone |website=pubchem.ncbi.nlm.nih.gov |accessdate=7 June 2020 |language=en}}{{Include-NIH}}</ref>
+<ref name=TCIEurope>SDS on 1,5-Diphenylcarbonohydrazone by TCI Europe, accessed on May 27, 2020</ref>
+}}
+
+[[Category:Ureas]]
+[[Category:Anilines]]

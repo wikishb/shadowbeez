@@ -1,0 +1,165 @@
+[[File:Chelatkomplex der Chen-Kao-Reaktion Formula V2.svg|thumb|right|300px|Chelate complex of the Chen-Kao reaction starting from (1''S'',2''S'')-pseudoephedrine]]
+
+The '''Chen-Kao reaction''' (named after [[Ko Kuei Chen]] and [[Chung-Hsi Kao]], Madison, Wisconsin 1926)<!-- Kao Ch'ung-hsi or Gao Chongxi or Chung-Hsi Kao, same person, different transliterations of the same name. Which/Both?[[Chung-Hsi Kao]]/[[Cheng-Heng Kao]] --><ref name=Journal_of_the_American_Pharmaceutical_Association /><ref name=Chemistry_in_China /> is a chemical method for determining the presence of [[Pseudoephedrine]], [[Ephedrine]], and similar [[phenylalkylamines]].<ref name=UN_CTPCAT />
+The reaction is used in [[Spot analysis|spot tests]] and is also known as Chen-Kao test (or simply as Chen, Test T in UN Precursor Test Kit). 
+The test is often used to distinguish ephedrine, pseudoephedrine, [[Phenylpropanolamine|Norephedrine]], [[Cathinone]] and [[Methcathinone]] from [[Amphetamine]] and [[Methamphetamine]],
+which do not react with Chen’s test reagent.<ref name=UN_CTPCAS />
+
+==Testing Method==
+The Chen-Kao test is performed by creating an acidic solution of the compound to be tested and adding dilute Copper (II) Sulfate and Sodium hydroxide solutions.<br />The procedure is as follows:
+
+
+#Place small amount of material to be tested on a spot plate.
+#Add 2 drops of reagent A
+#Add 2 drops of reagent B
+#Add 2 drops of reagent C
+#A violet color indicates presence of ephedrine or pseudoephedrine
+
+
+*Reagent A - 1% (vol/vol) aqueous [[acetic acid]] sol
+*Reagent B - dissolve 1g [[Copper(II) sulfate]] in 100ml water
+*Reagent C - dissolve 8g of [[NaOH]] in 100ml of water (that is [[Equivalent concentration|2N]] NaOH sol)<ref name=UN_RTMDA /><ref name=CTPIMAM /><ref name=ForensicChemistry />
+
+
+Further, the [[coordination complex]] might be extracted with organic solvent like [[Diethyl Ether]] or [[n-Butanol]] (see '''Table II'''), 
+as proposed in the literature,<ref name=ref_25 /><ref name=ref_26 /> which provides additional confirmation of the original results, but no further differentiation. 
+This modification is not included in the UN Precursor Test Kit and other spot tests alike.
+In order to further differentiate between ephedrine enantiomers - ephedrine, pseudoephedrine and other ephedrine-related compounds, [[Simon's reagent|Simon’s test]] (with acetaldehyde) and Simon’s test (with acetone) are used. (see '''Table III''')<ref name=UN_CTPCAS />
+
+==Reaction mechanism==
+
+When acidic solution of ephedrine or pseudoephedrine is mixed with [[copper sulfate]] and [[sodium hydroxide]] solutions, a violet color is formed. Upon shaking with [[Diethyl ether|ether]], the organic phase turns red/purple and the aqueous phase turns blue. The staining is based on the formation of a [[coordination complex]] of two ephedrine molecules and a copper ion [[Copper|Cu]]<sup>2+</sup><ref name=UN_CTPCAS /><ref name=LexikonPharmazie />
+
+This works, because, in an alkaline solution, the hydroxyl and amine groups are de-protonated, leaving a negative charge on the central atoms. They can then form a coordination complex with the positively-charged cupric ions from the copper sulfate. Phenethylamines (and their derivatives) that have a β-ketone group will also react, but less predictably and dramatically (the carbonyl oxygen is less nucleophilic than the deprotonated hydroxyl group). They usually form a deeper blue color, and often a grey-ish precipitate. This includes the cathinones and presumably βK-2C-x compounds.<ref name=reddit />
+
+
+[[File:Chelatkomplex der Chen-Kao-Reaktion Synthese V1.svg|thumb|500px|center|Chen-Kao reaction of [[Cathine|2-amino-1-phenylpropan-1-ol]] (Cathine) without consideration of the [[stereochemistry]].]]
+
+
+== Description ==
+
+The execution of the Chen-Kao reaction is simple, needs little practice and limited skills. 
+Also, the violet color obtained in the reaction is easy to define.  
+For a correct execution, it is important  to  note  that  the  typical  colors  develop  relatively  slowly,  and  that  a  good  color  intensity requires a sample of a few milligrams of the substances tested (i.e., more than what would typically be required for most other tests included in the UN test kits).
+
+Of all ephedrine-related compounds, only ephedrine and pseudoephedrine produce the typical, stable violet color. Other ephedrine-related compounds produce a blue to greenish-blue precipitate. This precipitate could be seen as characteristic for the members of the ephedrine group other than pseudoephedrine and ephedrine itself, hence, the Chen-Kao test appears to show a significant specificity within the ephedrine group. However, it is known from previously published cross-testing work that various pharmaceuticals not related to the ephedrine group may produce similar blue copper complexes.
+
+The two keto-amines, cathinone and methcathinone, initially also produce blue-colored complexes with the Chen-Kao reagent. However, a slow transition of the initial color into yellow, followed by an orange-brown color can be observed with both compounds, thus indicating the instability of the complexes initially formed, and an obvious decomposition of the two compounds under the alkaline conditions of this color reaction.
+
+The results of the solvent extractions, summarized in '''Table II''' appear to add little novelty to the results of the original Chen-Kao reactions. However, in cases of doubts, they may serve as confirmatory steps.<ref name=UN_CTPCAS />
+
+==Results==
+{| class="wikitable sortable" style="width: 100%;"
+|+ Table I - Results of the Chen-Kao test<ref name=UN_CTPCAS />
+|-
+!Compound tested
+!Color
+|-
+|Ephedrine || Violet
+|-
+|Pseudoephedrine || Violet
+|-
+|Norephedrine || Bright blue precipitate
+|-
+|Norpseudoephedrine || Blue precipitate
+|-
+|Chloropseudoephedrine || Bright blue (light greenish) precipitate
+|-
+|N-Methylephedrine || Pale blue precipitate (the crystals in the precipitate are violet)
+|-
+|Cathinone || Pale blue precipitate, turns to violet, through grey (greenish) in 2-3 minutes it turns to orange(brownish)
+|-
+|Methcathinone || Bright blue precipitate, through green it turns to brown, after 10 minutes the precipitate and the solution are orange
+|-
+|[[Caffeine]]|| Pale green<ref>{{Cite journal |last=Darsigny  |first=C |date=2018 |title=Forensic Chemistry of Alkaloids: Presumptive Color Test |url=http://austinpublishinggroup.com/forensicscience-criminology/download.php?file=fulltext/ajfsc-v5-id1074.pdf |journal=Austin Journal of Forensic Science and Criminology |volume=5}}</ref>
+|}
+
+
+{| class="wikitable sortable" style="width: 100%;"
+|+ Table II - Results of solvent extractions of the complex formed in the Chen-Kao reaction<ref name=UN_CTPCAS />
+|-
+!Compound tested
+!Chen-Kao
+!D-Ether
+!D-Ether - Water layer
+!N-Butanol
+!N-Butanol - Water layer
+|-
+|Ephedrine || Violet || Purple || Blue || Purple || Transparent
+|-
+|Pseudoephedrine || Violet || Purple || Blue || Purple || Blue
+|-
+|Norephedrine || Blue || Transparent || Pale blue, precipitate || Blue-Violet || Opaque
+|-
+|Norpseudoephedrine || Blue || Precipitate forming a ring between layers || Blue || Blue-Violet || Transparent 
+|}
+
+
+{| class="wikitable sortable" style="width: 100%;"
+|+ Table III - Results of the Simon and Chen-Kao reactions used for the distinction of ephedrine-related compounds<ref name=UN_CTPCAS />
+|-
+!Compound tested
+!Chen-Kao
+!Simon test I(with acetaldehyde)
+!Simon test II(with acetone)
+|-
+|Ephedrine || Violet || Light blue (in 5 min. deeper) || No color
+|-
+|Pseudoephedrine || Violet || No color || No color
+|-
+|Norephedrine || Bright blue precipitate || Olive green(brownish) || Light Pink
+|-
+|Norpseudoephedrine || Blue precipitate || No color || Light Pink
+|-
+|Chloropseudoephedrine || Bright blue (light greenish) precipitate || Bright blue, after 5 min it turns to grey (brownish sediment) || No color
+|-
+|N-Methylephedrine || Pale blue precipitate || Light Pink || Light Orange
+|}
+
+==See also==
+*[[Drug test]]
+*[[Drug checking]]
+*[[:Category:Drug_testing_reagents|Drug testing reagents]]
+*[[Marquis reagent]]
+*[[Cobalt(II) thiocyanate|Scott test]]
+*[[Froehde reagent]]
+*[[Duquenois–Levine reagent]]
+*[[Ehrlich's reagent]]
+*[[Gold(III) bromide]]
+*[[Dille–Koppanyi reagent]]
+*[[Liebermann reagent]]
+*[[Mandelin reagent]]
+*[[Mecke reagent]]
+*[[Simon's reagent]]
+*[[Zwikker reagent]]
+
+== References ==
+{{reflist|refs=
+
+<ref name=Journal_of_the_American_Pharmaceutical_Association>{{cite journal | author= K.&nbsp;K. Chen and C.&nbsp;H. Kao | title = Ephedrine and Pseudoephedrine, their Isolation, Constitution, Isomerism, Properties, Derivatives and Synthesis | journal= [[Journal of the American Pharmaceutical Association]] | volume=15 | issue=8 | year=1926 | pages=625–639 | doi=10.1002/jps.3080150804}}</ref>
+
+<ref name=Chemistry_in_China>{{cite book | author=James Reardon-Anderson | title= The Study of Change: Chemistry in China, 1840–1949 | journal= Studies of the East Asian Institute | edition=1. | publisher= Cambridge University Press | location=Cambridge/New York | year=1991 | isbn=978-0-521-53325-6 | pages=224, 235 | url={{Google books | id=o_XxL0f-AWMC | plainurl=yes}}}}</ref>
+
+<ref name=reddit>{{cite web |url=https://www.reddit.com/r/ReagentTesting/comments/5qdk39/a_little_about_the_chenkao_reagent_for/ |title=A little about the Chen-Kao reagent for phenalkylamine testing (ephedrine and derivatives) |date=27 January 2017 |website=reddit.com |access-date=25 June 2020}}</ref>
+
+<ref name=UN_CTPCAT>{{cite web|title=Color Tests for Precursor Chemicals of Amphetamine-Type Substances | url=https://www.unodc.org/pdf/scientific/SCITEC20-fin.pdf | work=United Nations International Drug Control Programme | accessdate=2018-04-05 | year=2005 | author=Gábor Nagy, István Szöllősi, Kálmán Szendrei | location=Szeged University, Hungary | date=December 2005}}</ref>
+
+<ref name=UN_CTPCAS>{{cite web|title=Color Tests for Precursor Chemicals of Amphetamine-Type Substances | url=https://www.unodc.org/pdf/scientific/SCITEC20-fin.pdf | work=United Nations International Drug Control Programme | accessdate=2020-06-24 | year=2005 | author=Gábor Nagy, István Szöllősi, Kálmán Szendrei | location=Szeged University, Hungary | date=December 2005}}</ref>
+
+<ref name=UN_RTMDA>{{cite book | author=United Nations | title= Rapid Testing Methods of Drugs of Abuse (Manual for Use by National Law Enforcement and Narcotic Laboratory Personnel)| location=New York | year=1994 | isbn=978-92-1-148230-0 | pages=71, 105}}</ref>
+
+<ref name=CTPIMAM>{{cite journal | author=Kaitlyn E Toole, Shanlin Fu, Ronald G Shimmon, Nadine Kraymen - University of Technology Sydney | title= Color Tests for the Preliminary Identification of Methcathinone and Analogues of Methcathinone | journal=Microgram Journal | volume=9 | issue=1 | location=Sydney, New South Wales, Australia | year=2007}}</ref>
+
+<ref name=ForensicChemistry>{{cite book | author=Kelly M. Elkins | title= Introduction to Forensic Chemistry | publisher= CRC Press | isbn=9781498763103 | date=October 18, 2018}}</ref>
+
+<ref name=ref_25>{{cite journal | author=Wiegrebe, W. und Vilbig | journal=Zeitschrift für Naturforschung | title=36b | pages=1297 | year=1981| doi=10.1515/znb-1981-1020 | s2cid=36268717 }}</ref>
+
+<ref name=ref_26>{{cite journal | author=S.L. Ali | title=Ephedrine hydrochloride | journal=K. Florey (Ed.): Analytical Profiles of Drug Substances | series=Analytical Profiles of Drug Substances | volume=15 | publisher = Academic Press | location=New York | year=1986| pages=233–281 | doi=10.1016/S0099-5428(08)60415-3 | isbn=9780122608155 }}</ref>
+
+<ref name=LexikonPharmazie>{{cite book | editor=Siegfried Ebel and Hermann J. Roth | title= Lexikon der Pharmazie | edition=1 | publisher=Georg Thieme Verlag | location=Stuttgart | year=1987 | isbn=3-13-672201-9 | page=134}}</ref>
+}}
+
+
+[[Category:Chemical tests]]
+[[Category:Analytical reagents]]
+[[Category:Drug testing reagents]]

@@ -1,0 +1,105 @@
+{{chembox
+| Reference = <ref name="Alfa" /><ref name="Sigma" /><ref name="Cayman" /><ref name="Biosynth" /><ref name="chemicalbook" />
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464200869
+| Name = 1-Phenyl-2-nitropropene
+| ImageFile =
+{{multiple image
+| border                 = infobox
+| total_width            = 290
+| image_style            = border:1;
+| perrow                 = 1/2
+| image1                 = Phenyl-2-nitropropene.svg
+| image2                 = P2NP_Crystals.png
+| image3                 = Phenyl-2-Nitropropene.png
+}}
+| PIN = (2-Nitroprop-1-en-1-yl)benzene
+| OtherNames = P2NP<br>1-Phenyl-2-nitropropene<br>β-methyl-β-nitropropene<br>trans-beta-Methyl-beta-Nitrostyrene<br>(2-Nitro-1-propenyl)benzene
+|Section1={{Chembox Identifiers
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 1266396
+| PubChem = 1549520
+| InChI = 1/C9H9NO2/c1-8(10(11)12)7-9-5-3-2-4-6-9/h2-7H,1H3/b8-7+
+| InChIKey = WGSVFWFSJDAYBM-BQYQJAHWBX
+| SMILES = [O-][N+](=O)/C(=C/c1ccccc1)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H9NO2/c1-8(10(11)12)7-9-5-3-2-4-6-9/h2-7H,1H3/b8-7+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WGSVFWFSJDAYBM-BQYQJAHWSA-N
+| CASNo_Ref = {{cascite|changed|??}}
+| CASNo = 705-60-2 
+| CASNo_Comment =
+  }}
+|Section2={{Chembox Properties
+| Formula = C<sub>9</sub>H<sub>9</sub>NO<sub>2</sub>
+| MolarMass = 163.17 g mol<sup>−1</sup>
+| Appearance = solid
+| MeltingPtC = 64 to 66
+| MeltingPt_notes = 
+  }}
+| Section3 = {{Chembox Hazards
+  | GHSPictograms = {{GHS07}}
+  | GHSSignalWord = Warning
+  | MainHazards =
+  | HPhrases = {{H-phrases|302|315|319|335}}
+  | PPhrases = {{P-phrases|261|264|280|301+312|312|302+352|304+340|305+351+338|330|332+313|337+313|362+364}}
+  }}
+}}
+
+'''1-Phenyl-2-nitropropene''', or simply '''phenyl-2-nitropropene''', or '''P2NP''', as it is commonly referred to, is a [[chemical compound]] from the [[Aromatic compound|aromatic]] group of compounds, with the formula C<sub>9</sub>H<sub>9</sub>NO<sub>2</sub>. It is a light-yellow crystalline solid with a distinct smell.<ref name="p2npim" /> Phenyl-2-nitropropene is used in the pharmaceutical industry to manufacture the drug [[Adderall]], an [[amphetamine]] mixture used to treat [[Attention deficit hyperactivity disorder|ADHD]] and [[narcolepsy]]. P2NP and other similar nitrostyrenes are also employed in the [[Clandestine chemistry|clandestine manufacture of drugs]] of the amphetamine class, and are listed as drug precursors in many countries.<ref name="Erowid" /><ref name="Erowid2" /><ref name="Erowid3" />
+
+==Uses==
+In the pharmaceutical industry, P2NP is used to produce a [[Racemic mixture|racemic]] [[amphetamine]] mixture, branded under the trade names [[Adderall]] and [[Adderall|Mydayis]], amongst others. In this case, the double bond is hydrogenated and the nitro group is reduced,<ref name="ru1" /> thus 1-phenyl-2-nitropropene becomes 1-phenyl-2-aminopropane, which is another name for amphetamine. Different reducing agents and solvents are used for this reaction, and various protocols exist. Often [[lithium aluminium hydride]] (LAH), [[aluminum amalgam]] or [[Raney nickel]] are used as a reducing agent, and the reaction is carried in a solvent like [[isopropyl alcohol]] or [[THF]]<ref name="ru2" /><ref name="Erowid" /><ref name="Erowid2" />
+
+[[File:Рeduction of P2NP to Amphetamine.png|none|framed|Reduction of P2NP to Amphetamine]]
+
+
+The above diagram depicts P2NP reduction to amphetamine by using either [[Lithium aluminium hydride|LAH]], [[sodium amalgam]], [[Raney nickel]], or [[Palladium#Catalysis|palladium]] as a catalyst in the reduction. Platinum, in the form of [[Adams' catalyst]], can also be used.<ref name="Erowid" />
+
+P2NP can also be reduced to [[phenylacetone]], which is a precursor in the synthesis of [[methamphetamine]].
+In this preparation, phenyl-2-nitropropene is reduced to phenyl-2-nitropropane using [[sodium borohydride]], followed by hydrolysis of the nitro group with [[hydrogen peroxide]] and [[potassium carbonate]] to produce phenylacetone (1-phenyl-2-propan-2-one).<ref name="ErowidP2p" /> Phenyl-2-nitropropene can also be reduced by hydrochloric acid and iron, forming an intermediate that will hydrolyze, which will form phenylacetone as well.<ref name="ErowidP2p" />
+
+==Synthesis==
+In the lab, phenyl-2-nitropropene is produced by the reaction of [[benzaldehyde]] and [[nitroethane]] in the presence of a basic [[catalyst]] like [[n-butylamine]]. The reaction is a nitroaldol reaction, and is a variant of a [[Knoevenagel condensation|Knoevenagel condensation reaction]], which is one of a broader class of reactions called [[Henry reaction|Henry condensations]], or simply Henry reactions. These are named after the German chemist [[Emil Knoevenagel]], and the Belgian chemist Louis Henry, respectively. 
+
+[[Image:Creation of phenyl-2-nitropropene.svg|left|framed|Synthesis of phenyl-2-nitropropene]]{{clear-left}}
+
+In this type of reaction, the basic catalyst deprotonates the nitroethane to form a [[Resonance (chemistry)|resonance stabilized anion]]. This anion nucleophilically adds to the [[aldehyde]] forming a β-nitro alcohol, which is subsequently dehydrated to yield the [[nitroalkene]]. Water is produced as a byproduct, and must be actively removed from the reaction mixture.
+Often, primary amines like [[n-butylamine]], [[methylamine]], and [[ethylamine]] are used as catalysts, as is anhydrous [[ammonium acetate]] at times.<ref name="p2npim" />
+
+Many other drugs of the amphetamine class are produced in a similar fashion, where substituted benzaldehyde derivatives are used to produce a different nitrostyrene, which is later reduced to the desired amine. One such reaction is the Knoevenagel condensation of [[piperonal]] with nitroethane, yielding 3,4-methylenedioxy-1-phenyl-2-nitropropene, or MDP2NP. This is reduced to [[3,4-Methylenedioxyamphetamine|3,4-methylenedioxyamphetamine]], or MDA, which can be methylated to [[MDMA|3,4-methylenedioxymethamphetamine]], or MDMA.<ref name="Erowid3" /> Another uses 2,5-dimethoxybenzaldehyde and nitromethane to yield 2,5-dimethoxy-β-nitrostyrene.
+Many of these Knoevenagel condensations were used by [[Alexander Shulgin|Dr. Alexander Shulgin]] to yield over 100 amphetamine derivatives, which he detailed in his book, ''[[PiHKAL]]''.<ref name="pihkal" /><ref name="p2npim" /><ref name="Erowid4" />
+
+==Safety and Storage==
+P2NP is labeled as harmful by the [[Globally Harmonized System of Classification and Labelling of Chemicals|GHS]], and is a known irritant. Thus, breathing fumes and direct skin and eye contact should be avoided.
+The [[median lethal dose]] for oral exposure in rats and mice is greater than 500 mg/kg and 1176 mg/kg, respectively.
+Based on available data, the classification criteria are not met to classify P2NP as a [[carcinogen]]. However, the toxicological properties have not been thoroughly investigated.<ref name=Cayman /><ref name=Biosynth /><ref name=Sigma />
+
+P2NP should be stored at 2°C to 8°C and away from strong [[Oxidizing agent|oxidizing agents]]. At higher temperatures, P2NP is not very stable, and degrades with time.<ref name=Biosynth /><ref name="p2npim" />
+
+==References==
+{{reflist|refs=
+<!--Not available any more <ref name="AlfaOld">[http://www.alfa.com/MSDSPDF/English/A17831.pdf Alfa MSDS] {{webarchive|url=https://web.archive.org/web/20070927010259/http://www.alfa.com/MSDSPDF/English/A17831.pdf |date=2007-09-27 }}</ref> -->
+
+<ref name="Alfa">[https://www.fishersci.com/shop/products/2-nitro-1-phenylpropene-98/AAA1783104 Alfa Aesar entry on 2-Nitro-1-phenylpropene] , accessed on March 20, 2021</ref>
+<ref name="chemicalbook">[https://www.chemicalbook.com/ChemicalProductProperty_US_CB7392092.aspx "Chemical Book" Website - entry on 1-Phenyl-2-nitropropene], accessed on March 21, 2021</ref>
+<ref name=Cayman>Material Safety Data Sheet P2NP (PDF) from Cayman Chemical, accessed on March 20, 2021</ref>
+<ref name=Biosynth>Material Safety Data Sheet 1-(Phenyl)2-nitropropene (PDF) from Biosynth Carbosynth, accessed on March 20, 2021</ref>
+<ref name=Sigma>Material Safety Data Sheet trans-β-Methyl-β-nitrostyrene (PDF) from Sigma-Aldrich, accessed on March 20, 2021</ref>
+<ref name="Erowid">[https://erowid.org/archive/rhodium/chemistry/amphetamine.reduction.html Synthetic Reductions in Clandestine Amphetamine and Methamphetamine Laboratories - A Review]</ref>
+<ref name="Erowid2">[https://www.erowid.org/archive/rhodium/chemistry/amph.urushibara.html Urushibara Style Amphetamine]</ref>
+<ref name="Erowid3">[https://www.erowid.org/archive/rhodium/chemistry/mdp2np.html 3,4-Methylenedioxyphenyl-2-Nitropropene
+From Piperonal, Nitroethane & NaOH]</ref>
+<ref name="Erowid4">[https://erowid.org/search.php?q=phenyl-2-nitropropene Erowid, phenyl-2-nitropropene]</ref>
+<ref name="ErowidP2p">[https://erowid.org/archive/rhodium/chemistry/phenylacetone.html#p2np Phenyl-2-Propanone from Phenyl-2-Nitropropene #8]</ref>
+<ref name="pihkal">[[PiHKAL|Pihkal: A Chemical Love Story]],  Alexander Shulgin and Ann Shulgin, 1991</ref>
+<ref name="p2npim">[https://commons.wikimedia.org/wiki/File:P2NP_in_microwave_(Ammonium_acetate_catalysis).pdf Phenyl-2-nitropropene synthesis via Ammonium acetate catalysis], 2021</ref>
+
+<!--check those-->
+<ref name="ru1">{{cite book| author = [[Организация Объединённых Наций]] | chapter = Синтез амфетамина. Восстановительное аминирование (каталическое восстановление с использованием металла)| chapter-url = https://books.google.com/books?id=Nf2y_9j9i_kC&pg=PA12| format = | url =  | title = Рекомендуемые методы обнаружения и анализа амфетамина, метамфетамина и их замещённых по циклу аналогов в конфискованных материалах | orig-year = | agency =  | edition =   |location= Нью-Йорк |date = 2007 |publisher=  |volume=  | pages = 12| series =  | isbn = 9789214480303}}</ref>
+<ref name="ru2">{{cite book| author = [[Организация Объединённых Наций]] | chapter = Синтез 1-фенил-2-пропанона| chapter-url = https://books.google.com/books?id=G_OfkRtfz8oC&pg=PA40| format = | url =  | title = Бюллетень по наркотическим средствам | orig-year = | agency =  | edition =   |location=  |date = 2008 |publisher=  |volume=  | pages = 40| series =  | isbn = 978-92-1-448027-3}}</ref>
+}}
+
+[[Category:Nitro compounds]]
+[[Category:Phenyl compounds]]

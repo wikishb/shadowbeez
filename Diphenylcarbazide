@@ -1,0 +1,90 @@
+{{Short description|Chemical compound}}
+{{Use dmy dates|date=May 2020}}
+{{Chembox
+| PIN = ''N''′,2-Diphenylhydrazine-1-carbohydrazide
+| OtherNames = {{Unbulleted list
+  | ''1,5-Diphenylcarbazide''
+  | ''sym-Diphenylcarbazide''
+  | ''s-Diphenylcarbazide''
+  | ''Diphenylcarbazide''
+  | ''DPC''
+  }}
+| ImageFile =
+{{multiple image
+| border                 = infobox
+| total_width            = 290
+| image_style            = border:1;
+| perrow                 = 1/2
+| image1                 = Diphenylcarbazide.svg
+| image2                 = JWMJ8cd.png
+}}
+
+
+
+
+
+
+| Section1 = {{Chembox Identifiers
+  | Abbreviations = ''DPC''
+  | CASNo = 140-22-7
+  | PubChem = 8789
+  | ChemSpiderID = 8459
+  | ChEBI_Ref = {{ebicite|correct|EBI}}
+  | ChEBI = 4641
+  | KEGG = C11232
+  | EC_number = 205-403-7
+  | UNII = 1W1XPA8N0P
+  | StdInChI=1S/C13H14N4O/c18-13(16-14-11-7-3-1-4-8-11)17-15-12-9-5-2-6-10-12/h1-10,14-15H,(H2,16,17,18)
+  | StdInChIKey = KSPIHGBHKVISFI-UHFFFAOYSA-N
+  | SMILES = C1=CC=C(C=C1)NNC(=O)NNC2=CC=CC=C2
+  }}
+| Section2 = {{Chembox Properties
+  | Formula = C<sub>13</sub>H<sub>14</sub>N<sub>4</sub>O
+  | MolarMass = 242.28 g·[[Mol (unit)|mol]]<sup>−1</sup>
+  | Appearance = white odorless solid
+  | MeltingPt = 170–175 °C<ref name="Sigma" />
+  | Solubility = poor
+  }}
+| Section3 = {{Chembox Hazards
+  | Hazards_ref = <ref name="LabChem" /><ref name="Sigma" />
+  | GHSPictograms = {{GHS07}}
+  | GHSSignalWord = Warning
+  | MainHazards =
+  | HPhrases = {{H-phrases|315|319|335}}
+  | PPhrases = {{P-phrases|261|264|271|280|302+352|304+340|305+351+338|312|321|332+313|337+313|362|403+233|405|501}}
+  }}
+}}
+'''1,5-Diphenylcarbazide''' (or simply '''Diphenylcarbazide''', often abbreviated '''DPC''') is a [[chemical compound]] from the group of the [[carbazides]]. It has a structural formula similar to that of [[diphenylcarbazone]] and can be easily converted into it by oxidation.
+
+== Properties ==
+Diphenylcarbazide is a white solid that is scarcely soluble in water,<ref name="Merck" /> but readily soluble in organic solvents like [[acetone]], hot [[ethanol]] and [[acetic acid]].<ref name="TCIEurope" /> It forms colored [[Coordination complex|complex compounds]] with certain metal ions. 
+Diphenylcarbazide oxidizes to Diphenylcarbazone when exposed to light and air, turning pink in the process.
+
+== Uses ==
+
+Diphenylcarbazide is used as a [[redox indicator]]<ref name="Merck" /> and for the [[Photometry (optics)|photometric]] determination of certain heavy metal ions, like those of [[Chromium]], [[Mercury (element)|Mercury]], [[Cadmium]], [[Osmium]], [[Rubidium]], [[Technetium]] and more.
+
+Reacting a Diphenylcarbazide with Chromium (VI) compounds, such as chromates or dichromates produces [[diphenylcarbazone]], which forms a red-violet complex with the chromium compounds. Chromium (III) compounds can also be determined using this method, by first oxidizing these to Chromium (VI) using an oxidizing agent (e.g. [[ammonium persulfate]] solution). Diphenylcarbazide has also been widely used in the chemical lab to detect Mercury (II) compounds, in a similar fashion. 
+
+The reagent is typically used either as 1% to 0.25% solution in some organic solvent, or in the form of test-strip paper for detection of heavy metals in drinking water at home. The reagent is very sensitive, with a sensitivity threshold at 0.000,000,05 g/ml for Chromium (VI) ions, and 0.000,002 g/ml for Mercury (II) ions, that is 50 [[Parts-per notation|ppb]] and 2000 [[Parts-per notation|ppb]], respectively.<ref name="Valerus" />
+
+In the beginning of the 20th century, the following procedure using the Diphenylcarbazide indicator was developed, to prove the presence of mercury in solution: One drop of the solution to be tested is deposited on a filter paper which had been dipped into a freshly prepared 1% alcoholic solution of Diphenylcarbazide. Mercury salts produce a purple spot, even in a very diluted solution. Chromates and molybdates produce the same reaction.<ref>W. Böttiger, Bestimmung kleiner Mengen Quechsilbersalz in stärker Verdünnung. Z. Elektrochem. 22, 69 (1916)</ref><ref>A. Stock, E. Rohland, Kolorimetrische Bestimmung sehr kleiner Quecksilbermengen, Z. Angew. Chem. 39. 791 (1926)</ref><ref>A. Stock, W. Zimmermann, Zur Bestimmung kleinster Quecksilbermengen, Z. Angew. Chem. 41, 546 (1928)</ref><ref>A. W. Scott, Adaptation of the Diphenylcarbazide Test for Mercury to the Scheme of Qualitative Analysis, J. Am. Ch. Soc. 51, 3351, (1929)</ref>
+
+The major drawback of the test is the deterioration of stock solution of Diphenylcarbazide in different solvents. Thus, it needs to be freshly prepared. To avoid this problem, a solution has been found in the publication by Urone in 1955. Accordingly, non-aqueous [[Ethyl acetate]] and acetone were the better solvents, Diphenylcarbazide solutions of which are stable for months. Diphenylcarbazide solutions of [[Butanone|Methyl ethyl ketone]], [[2-Methoxyethanol|methyl cellosolve (2-methoxyethanol)]], and [[Isopropyl alcohol]] are usable for 1-2 weeks. Aqueous solutions and solvents tending to be basic such as methanol and ethanol, and those containing traces of water and basic impurities, do not make good solvents for stock solutions of the colorimetric reagent<ref>P. F. Urone, “Stability of Colorimetric Reagent for Chromium, s-Diphenylcarbazide, in Various Solvents,” Anal. Chem. 1955, 27(8), 1354-1355</ref>
+
+== Synthesis ==
+
+At least 16 different routes to synthesizing the compound are known, most of which use [[Phenylhydrazine]]. An example of such a chemical reaction is the reaction between [[Phenylhydrazine]] and [[Urea]] to produce 1,5-Diphenylcarbazide in about 96% yield<ref>Pasha; Madhusudana Reddy Synthetic Communications, 2009 , vol. 39, # 16 p. 2928 - 2934</ref>
+
+== References ==
+{{reflist|refs=
+<ref name=Merck>Data-sheet 1,5-diphenylcarbazide (PDF) from Merck, accessed on May 16, 2011</ref>
+<ref name=Sigma>Data-sheet 1,5-diphenylcarbazide (PDF) from Sigma-Aldrich, accessed on May 22, 2017</ref>
+<ref name=TCIEurope>Entry on 1,5-Diphenylcarbonohydrazide at TCI Europe, accessed on June 27, 2011</ref>
+<ref name=LabChem>Data-sheet 1,5-Diphenylcarbazide (PDF) from LabChem, accessed on May 15, 2020</ref>
+<ref name=Valerus>Data-sheet (PDF) from Valerus, accessed on May 17, 2020</ref>
+}}
+
+[[Category:Hydrazides]]
+[[Category:Ureas]]
+[[Category:Anilines]]
