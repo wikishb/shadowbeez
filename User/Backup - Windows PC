@@ -1,0 +1,160 @@
+All three data acquisition methods - physical, file system and logical, are used to backup data from the Windows OS.
+
+Physically extracting data is the process of copying all the data bit by bit, as it appears on the hard disk. Partitions and whole discs are copied in this manner, resulting in a disc image file (like an .ISO). That is why this method is sometimes referred to as an image backup. Those images can be later used to restore the particular partition or disc to a partition or disc. If the physical backup is of the system partition (or includes the system partition?)(usually C:\ in Microsoft Windows), then the backup might be used to restore the OS to a previous state. 
+Sometimes the OS might be damaged to the point it won't boot. In this case, having a boot-able recovery media aka recovery USB drive is very helpful. It is the same disc image but with a boot-loader included, that is used to restore the OS.
+
+File system backups are done simply by selecting files and folders to copy (and sometimes selecting files or folders to ignore from the selected), and are full, differential and incremental and file syncs. A full backup is simply a copy of files and folders. On top of a full backup, a differential backup can be performed later, which will back up only files that have been changed since that full backup. Incremental backups, on the other hand will backup only a diff of the file changes - quite like Git works. This is the most compact option, but it takes more time to restore files to a specific state. Finlay, a file sinc will simply overwrite the old file.
+
+Scheduling of backup operations is common, and it is either every x months, weeks, days, or even hours or minutes, or after a specific event (like a new program being installed), or manually triggered. It is common to use a scheme where someone will make a full backup once a month and an incremental or differential backup on top of that full backup every day at x o clock, e.g. The Windows Shadow copy service is used in order to create the backup in the background, while a user is working on the PC and even changing the data on the disc being backed up.
+One can also setup the number of backups to be kept. Another interesting feature is the ability to perform particular operation before or after a backup operation - like closing a program, executing command line, etc.
+
+It is also common to have an option to compress and encrypt with a password the backed-up data as well, especially before storing it on the cloud.<ref name="book_1" />
+
+==Data Acquisition Methods==
+*Physical – It is a bit-to-bit copy of the device and allow to recover deleted data.
+*File system – This method would extract files which are visible at file system level.
+*Logical – This method allows extracting particular files from the file system like a backup.
+<ref name="book_2" />
+
+==Data Storage Methods==
+*Full Backup
+*Differential Backup
+*Incremental Backup
+*File sync
+*Dummy Backup
+<ref name="pcworld" />
+
+==Commonly Collected Data==
+
+{{strong|EXTRACT :}}
+{{Div col|colwidth=22em}}
+* All the disks
+* Windows partition
+* Particular partition
+
+* Export Windows settings, folder options, etc.
+* Export particular folders NTFS permissions
+* Export saved WiFi networks with passwords
+* Export saved passwords in the Windows vault
+
+* Export Browsers Settings
+* Export Browsers Bookmarks
+* Export Browsers Histories
+* Extract Browsers saved Passwords
+* Extract (Session) Cookies
+* Extract Browsers Add-ons Names
+* Extract Browsers Add-ons
+* Extract Add-ons Settings
+* Extract Browsers Themes
+* Take note of Browsers accounts logged in (Firefox account, Google account, etc.)
+
+* Extract all installed components names, versions etc.
+* Extract all installed programs names, versions etc.
+* Extract all installed services names, versions etc.
+* Export password manager contents
+* Take note of client programs logged in accounts
+* Take note of video players installed codecs
+* Export Programs settings, patch level, add-ons, installed packages etc.
+* Copy portable Programs
+
+* Extract start up programs
+* Extract context menu items
+* Extract file-program associations
+* Extract desktop shortcut names and order
+* Extract taskbar pinned icons names and paths
+* Extract launch tray icons names and paths
+* Extract start menu icons names and paths
+* Copy Desktop Wallpapers and Screensavers
+
+* Copy browsers downloads folders
+* Copy special folders contents - Desktop, My Documents, Downloads, Music, Pictures, Videos etc.
+* Check programs default save locations for meaningful files
+* Copy non-system partitions
+* Copy all other useful files and folders
+* Search for file extensions with open source search tool like "Everything"
+* Extract non-system partitions as a disc image files
+{{Div col end}}
+
+{{Div col|colwidth=22em}}
+{{strong|EXTRACT TO :}}
+* Boot-able flash drive or other
+* Extract to a disc image (.ISO)
+
+
+{{strong|STORE :}}
+* Store locally
+* Store on external drive or flash drive etc
+* Store on a network share
+* Upload to Dropbox
+* Upload to Google Drive
+* Upload to OneDrive
+* Upload to Box
+* Upload to another cloud
+
+
+{{strong|RESTORE :}}
+* Restore Windows from a recovery drive
+* Restore Windows from a System Restore Point<ref name="book_1" />
+* Restore files and folders from the backup utility (File History)
+
+{{strong|SCHEDULE :}}
+* Run Once
+* Run Once in [NUMBER_OF_MINUTES]
+* Run every [NUMBER_OF_MINUTES][_R]
+* Run Daily at [TIME]
+* Run Weekly at [DAY_OF_WEEK][TIME]
+* Run Monthly at [DATE][TIME]
+* Run Yearly at [DATE][TIME]
+* Run after [EVENT]
+
+
+{{strong|MORE FEATURES :}}
+* Auto delete old backups
+* Set up number of backups to keep
+* Set up backup strategy (full weakly then incremental daily on top e.g.)<ref name="yt_Paragon" />
+
+* Encrypt backups with a password (End to End)
+* Compress backups (different compression types)
+
+* Doubles as a Cloud Storage for the backups
+* Doubles as a Anti-virus and security software
+* Doubles as a Data cleaner/Disc wiper
+
+* Migrate to other hardware
+
+* Backup Windows Server
+* Backup Exchange Server
+* Backup SQL Server
+{{Div col end}}
+<ref name="yt_EaseUS" /><ref name="yt_Acronis" /><ref name="yt_iDrive" /><ref name="yt_Backblaze" /><ref name="yt_Cloudberry" /><ref name="yt_Aomei" /><ref name="yt_Paragon" /><ref name="yt_FBackup" /><ref name="yt_GD" /><ref name="yt_Cobian" /><ref name="yt_RDrive" /><ref name="Macrium" />
+
+==Further Reading==
+* https://en.wikipedia.org/wiki/Backup_and_Restore
+* windows_10_backup_and_restore.pdf - Windows 10 Backup & Restore - Kennesaw State University, 2016
+
+==See Also==
+* https://en.wikipedia.org/wiki/User:ShadowBee/Listopedia_-_Smartphone_backup
+* https://www.wikihow.com/Back-Up-Firefox-Extensions,-Bookmarks,-Themes,-and-Preferences
+* https://www.sweetwater.com/sweetcare/articles/how-to-back-up-windows-10/#
+* https://blog.szynalski.com/2009/11/volume-shadow-copy-system-restore/
+* https://www.amazon.com/Backing-Up-Windows-10-already/dp/1937018482
+* https://www.google.com/search?client=firefox-b-d&q=windows+backup+books
+
+==References==
+{{reflist|refs=
+<ref name="book_1">windows_10_backup_and_restore.pdf - Windows 10 Backup & Restore - Kennesaw State University, 2016</ref>
+<ref name="book_2">Digital Evidence and Computer Crime - Eoghan Casey and Benjamin Turnbull</ref>
+<ref name="pcworld">https://www.pcworld.com/article/407021/best-windows-backup-software.html</ref>
+<ref name="yt_EaseUS">https://www.youtube.com/watch?v=EBCr9TVyeo8		EaseUS Todo Backup Enterprise Review: Top Features, Pros and Cons, and Alternatives</ref>
+<ref name="yt_Acronis">https://www.youtube.com/watch?v=FaBMAp3kwYQ		Acronis True Image 2021 Review</ref>
+<ref name="yt_iDrive">https://www.youtube.com/watch?v=ijmwJfThpfc		iDrive Review 2021: Is it Actually the BEST Cloud Backup and Storage Service?</ref>
+<ref name="yt_Backblaze">https://www.youtube.com/watch?v=VihOpN1JUU0		Backblaze Is A SCAM (Why To Avoid + Alternative Backup Solution)</ref>
+<ref name="yt_Cloudberry">https://www.youtube.com/watch?v=AKCswFmrO-Y		Cloudberry MSP 360 Managed Backup Service Review 2019</ref>
+<ref name="yt_Aomei">https://www.youtube.com/watch?v=F7FOSzEVMbk		AOMEI Software Review (Cloning no longer Available in the Free Version)</ref>
+<ref name="yt_Paragon">https://www.youtube.com/watch?v=jMY6Zv7hvjI		Using Paragon Backup & Recovery 16</ref>
+<ref name="yt_FBackup">https://www.youtube.com/watch?v=jMY6Zv7hvjI		FBackup For Windows 10: A Free, Robust, Backup Program</ref>
+<ref name="yt_GD">https://www.youtube.com/watch?v=ZhEG-4zHKfA		Beginner's Guide to Google Drive for Windows - Backup and Sync Tutorial</ref>
+<ref name="yt_Cobian">https://www.youtube.com/watch?v=98ISaF6JhHg		How to backup using Cobian Backup - Review</ref>
+<ref name="yt_RDrive">https://www.youtube.com/watch?v=dJUasswnw7Y		R-Drive Image Review</ref>
+<ref name="Macrium">Macrium Reflect - https://www.techradar.com/reviews/macrium-reflect</ref>
+}}

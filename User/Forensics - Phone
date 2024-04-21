@@ -1,0 +1,140 @@
+There are three places where different data is stored on a smart phone, and those are - the SIM card, the device internal storage and the SD card, if one is used. Some data can also be obtained from the mobile carrier.
+
+SIM (subscriber identity module) cards are comprised of a microprocessor, ROM, and RAM, and are assigned a unique Integrated Circuit Card Identifi er (ICC-ID). The ICC-ID contains the mobile country code (MCC), mobile network code (MNC), and a serial number of the card. These smart cards (SIMs) are used to authenticate users on GSM and UMTS networks. The SIM card contains information relating to the network and user, including an authentication key (called Ki) needed to establish a connection with  the  network,  the  subscriber’s  personal  identification  number  (PIN)  for restricting use of the SIM, and the subscriber’s phone number, which is called the Mobile Subscriber ISDN (MSISDN).The SIM also contains an International Mobile Subscriber Identity (IMSI) that is uniquely associated with the subscriber and is comprised of a country code, a mobile network code, and subscriber identifi cation number. A SIM card may also contain a Temporary Mobile Subscriber Identity (TMSI) and  Location Area Identity (LAI). The TMSI is often used over the radio link to avoid revealing the IMSI number to others who may be eavesdropping with radio-related interception equipment. The TMSI and LAI generally change each time a device moves to a new location area within the mobile network.<ref name="book_1" /> 
+
+SIM cards contain a small OS with apps of its own (called cardlets), and an internal storage, with a small file system. SIM cards have storage capacity between 8KB and 512 KB<ref name="ref_3" /> (or 4 to 256 pages of text)<ref name="ref_5" />, and often contain contacts, SMS archive and a list of last dialed numbers.<ref name="ref_2" /><ref name="ref_4" /> Not all of the information stored on a SIM card is known to or easily accessible by the subscriber.<ref name="book_1" />
+
+Feature phones have some kind of basic proprietary OS, while most of the smartphones run Android, iOS or Windows. Smart phones have baseline phone  functionality but are vastly more powerful and extendable, and hence have greater evidentiary value.<ref name="book_1" />
+At a minimum, mobile phones can be expected to contain address books, call logs, and Short Messaging Service (SMS) messages. Often photographs, audio, and video are present as well as Internet history, Internet cache, Internet bookmarks, e-mails. There is also a wealth of information in third-party installed applications. 
+
+Some mobile devices record the location of cellular towers they contacted, potentially providing a historical record of the user’s whereabouts over a given period (iPhones). GPS-enabled devices may also contain remnants of past locations and maps and EXIF data embedded in digital photographs can add additional evidentiary value, providing the date and time the photograph was created, the device type used to create it, and potentially the GPS coordinates of where the photograph was taken. Onboard GPS may also provide the user with mapping functionality, and hence provide forensic investigators with waypoints, plotted destinations, and routes taken.
+
+
+==Data Acquisition Methods==
+*Physical – It is a bit-to-bit copy of the device and allow to recover deleted data. (not always possible with mobile)
+*File system – This method would extract files which are visible at file system level.
+*Logical – This method allows extracting particular files from the file system like a backup.
+
+
+==Places containing data==
+*SIM
+*Handset
+*SD Card
+*The Carrier
+*Backup on PCs
+*Backup on the Cloud
+<ref name="ref_1" /><ref name="book_1" />
+
+
+==Commonly Collected Data==
+
+{{Div col|colwidth=22em}}
+{{strong|SIM:}}
+IDs, Usage data
+
+* Subscriber identifier (IMSI)
+* Card identifier (ICC-ID)
+* More ids
+
+* SMS
+* Contacts stored on the SIM
+* Recent Call log
+* Some location-related data might be present
+<ref name="ref_4" /><ref name="book_1" />
+{{Div col end}}
+
+
+{{Div col|colwidth=22em}}
+{{strong|CARRIER:}}
+Tracking, Usage information
+
+* Connected cell towers over time
+* Location at different times
+* Current location (inaccurate)
+
+* Billing information
+* Internet/data usage
+* Call logs
+* SMS - content and phone numbers
+<ref name="ref_6" /><ref name="book_1" />
+{{Div col end}}
+
+
+{{Div col|colwidth=22em}}
+{{strong|FEATURE PHONE:}}
+Hardware, Created info
+
+* Handset date and time
+* International Mobile Equipment Identity (IMEI)<ref name="book_1" />
+
+* Call log
+* SMS
+* Contacts
+* Alarms
+* *Calendar
+* *Notes
+<ref name="book_1" /><ref name="ref_7" />
+{{Div col end}}
+
+
+{{Div col|colwidth=22em}}
+{{strong|SMART PHONE:}}
+Hardware, 
+TEE, 
+User-created, 
+Internet-related, 
+3rd-party apps
+
+* Handset date and time
+* International Mobile Equipment Identity (IMEI)
+
+* Biometric data(from TEE)<ref name="ref_8" /><ref name="ref_9" />
+* Financial data(from TEE)<ref name="ref_8" /><ref name="ref_9" />
+
+* Call log (received, sent, missed)
+* SMS/MMS
+* Contacts
+* Calendar
+* Alarms
+* Memos/Notes and Lists
+* Photos (including EXIF data)
+* Recorded Videos and Audios
+* Documents and other Files
+* Downloaded offline Maps
+
+* Browser Bookmarks
+* Browser History
+* Search History<ref name="ref_8" />
+* Online accounts/Passwords
+* E-mails
+* Social networking information
+
+* Alternative messaging and communication apps data
+* GPS waypoints in Map apps
+* Other apps data
+<ref name="book_1" /><ref name="ref_7" />
+{{Div col end}}
+
+==Further Reading==
+*Digital Evidence on Mobile Devices - Eoghan Casey and Benjamin Turnbull
+*Evaluation of Some Tools for Extracting e-Evidence from Mobile Devices - Appiah Kwame Kubi, Shahzad Saleem, Oliver Popov, January 2011
+*Guidelines on Mobile Device Forensics - NIST Special Publication 800-101 Revision 1 - Rick Ayers, Sam Brothers, Wayne Jansen, May 2014
+
+
+==References==
+{{reflist|refs=
+<ref name="book_1">https://booksite.elsevier.com/9780123742681/Chapter_20_Final.pdf Digital Evidence on Mobile Devices - Eoghan Casey and Benjamin Turnbull, Chapter 20</ref>
+<ref name="ref_1">https://www.youtube.com/watch?v=5e5KdbY-xzE, MASB, Webinar: An Introduction to Mobile Forensics (the sim hset sd 3 places data stored)</ref>
+<ref name="ref_2">https://www.techradar.com/sim-only/what-is-stored-on-a-sim-card</ref>
+<ref name="ref_3">https://www.elprocus.com/how-sim-card-works/</ref>
+<ref name="ref_4">https://www.mobikin.com/data-clean/how-to-fully-wipe-out-android-sim-card.html</ref>
+<ref name="ref_5">https://www.easytechjunkie.com/how-much-text-is-in-a-kilobyte-or-megabyte.htm</ref>
+<ref name="ref_6">https://consumercal.org/about-cfc/cfc-education-foundation/what-information-does-your-service-provider-collect-and-store/</ref>
+<ref name="ref_7">https://en.wikipedia.org/wiki/User:ShadowBee/Listopedia_-_Smartphone_backup Smartphone Backup</ref>
+<ref name="ref_8">https://www.envistaforensics.com/services/digital-forensics-services/mobile-phone-forensics/</ref>
+<ref name="ref_9">https://en.wikipedia.org/wiki/Trusted_execution_environment</ref>
+}}
+
+
+<!--[[:Category:Data Extraction]]-->
+<!--[[:Category:Software]]-->

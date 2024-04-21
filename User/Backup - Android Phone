@@ -1,0 +1,169 @@
+In information technology, a backup, or data backup is a copy of computer data taken and stored elsewhere so that it may be used to restore the original after a data loss event.<ref name="wikipedia_0" /> Furthermore, data is backed up in order to be made available on another device and in another form, and lastly, data backup is often used in digital forensics to make data available for investigation.
+
+Most users will use some Android or iOS App to back up the data from their phone, and those apps vary greatly regarding what data is being extracted from the phone, where it is stored and in what file formats, and whether the app supports restoration of settings and files from those backups. Below is a list of common features of a backup operation on a smartphone.
+
+Apps are easy to use but are not very flexible and don't offer great privacy, as even thrust-worthy apps utilize third party services. On top of that, the source code for android and iOS apps is rarely, if ever, available for evaluation. Also, free apps contain a lot of annoying ads. Some apps might require root access.
+
+Android Debug Bridge (ADB) can be used to fetch files and data from a phone, but in order to fetch crucial data (Contacts, Call logs, SMS, e.g.) with ADB the phone needs to be rooted. It is also not straight-forward to use from regular users, and the output is not in a convenient format for viewing - like PDF or HTML for example. On the flip side ADB is free and ideal in regards to privacy.
+
+Forensic tools can be utilized to back up phone data and files with great success, but those tools are often not straight-forward for regular users, and are often very expensive, which mostly limits their use to professionals like analysts and law enforcement.
+
+Thus, as no ideal method is available, it is recommended to use a trusted app to extract the sensitive data in VCF(contact cards) and XML or HTML format, and use ADB or regular file transfer to extract the files and the sensitive data in the form of those XML/HTML/PDF/TXT etc. formats to a computer for later use. As for restoration, an app can be used to extract the whole phone data.
+
+
+==Features==
+{{Div col|colwidth=22em}}
+{{strong|EXTRACT :}}
+* Extract Entire Phone
+
+* Extract System Settings 
+* Extract WAPs 
+* Extract APNs 
+* Extract Screen DPI 
+* Extract Default keyboard 
+* Extract ADB state(Android)
+* Extract Font Scale 
+* Extract Android Home screens 
+* Extract Dictionary
+
+* Extract Music Playlists 
+* Extract Documents
+* Extract Photos
+* Extract Videos
+* Extract Music
+
+* Extract APKs
+* Extract Apps
+* Extract Apps Names
+* Extract Apps Data
+* Extract Apps Permissions
+* Extract [Specific_App]
+* Extract [Specific_App_Data]
+
+* Extract Contacts
+* Extract SMS/MMS
+* Extract Call logs
+* Extract Alarms
+* Extract Calendars
+* Extract Browser Bookmarks
+* Extract Browser History
+{{Div col end}}
+
+
+{{Div col|colwidth=22em}}
+{{strong|EXTRACT TO :}}
+* To File Tree
+* To Multiple Files
+* To MDB
+
+* To APK
+* To ZIP
+
+* To PDF
+* To TXT
+* To HTML
+
+* To XML
+* To CSV
+
+* To [FORMAT]
+{{Div col end}}
+
+
+{{Div col|colwidth=22em}}
+{{strong|STORE :}}
+* Store Locally
+
+* Upload to Dropbox
+* Upload to Google Drive
+* Upload to OneDrive
+* Upload to Box
+* Upload to [app_cloud]
+
+* Share to Android/iPhone (using the same app)
+* Share with Bluetooth
+* Share with Wi-Fi Direct
+* Share with IR
+
+* Send to WhatsApp
+* Send to Gmail
+* Send to SMS
+* Send to Skype
+* Send to Telegram
+* Send to [App]
+{{Div col end}}
+
+
+{{Div col|colwidth=22em}}
+{{strong|RESTORE :}}
+* Restore Entire Phone
+
+* Restore System Settings
+* Restore WAPs
+* Restore APNs
+* Restore Screen DPI
+* Restore Default keyboard
+* Restore ADB state
+* Restore Font Scale
+* Restore Android Home screens
+* Restore Dictionary
+
+* Restore Music Playlists 
+* Restore Documents
+* Restore Photos
+* Restore Videos
+* Restore Music
+
+* Restore APKs
+* Restore Apps
+* Restore Apps Names
+* Restore Apps Data
+* Restore Apps Permissions
+* Restore [Specific_App]
+* Restore [Specific_App_Data]
+
+* Restore Contacts
+* Restore SMS/MMS
+* Restore Call logs
+* Restore Alarms
+* Restore Calendars
+* Restore Browser Bookmarks
+{{Div col end}}
+
+
+{{Div col|colwidth=22em}}
+{{strong|MORE FEATURES :}}
+* Automatic Backup when [SOMETHING]
+* Automatic Backup apps on Installation
+* Automatic Backup photos on Creation
+* Automatic Backup videos on Creation
+* Scheduled Backup
+* [SOMETHING ELSE]
+{{Div col end}}
+<ref name="vervelogic" /><ref name="techrepublic" /><ref name="mobileappdaily" /><ref name="app_abr" /><ref name="app_mb" /><ref name="gplay_eb" />
+
+==Further Reading==
+* https://www.androidauthority.com/best-android-backup-apps-and-other-ways-too-608014/
+* https://www.samsung-messages-backup.com/resources/android-backup-app.html
+* https://www.coolmuster.com/android/android-backup-app.html
+* https://bestappsguru.com/best-backup-apps-for-android/
+* https://www.samsung-messages-backup.com/resources/best-android-backup-software-for-pc.html
+* https://listoffreeware.com/best-free-android-backup-apps/
+* https://play.google.com/store/search?q=backup&c=apps
+
+
+==References==
+{{reflist|refs=
+<ref name="vervelogic">https://www.vervelogic.com/blog/best-backup-apps-for-android/</ref>
+<ref name="techrepublic">https://www.techrepublic.com/blog/five-apps/five-free-android-apps-for-reliable-backups/</ref>
+<ref name="mobileappdaily">https://www.mobileappdaily.com/2018/10/30/best-android-backup-apps</ref>
+<ref name="app_abr">com.darezhiko.allbackup.restore</ref>
+<ref name="app_mb">com.rerware.android.MyBackup</ref>
+<ref name="gplay_eb">https://play.google.com/store/apps/details?id=com.simpler.backup</ref>
+<ref name="wikipedia_0">https://en.wikipedia.org/wiki/Backup</ref>
+<ref name="download_cm">https://cm-backup-safe-cloud-speedy.en.softonic.com/android</ref>
+}}
+
+
+<!--[[:Category:Software]]-->
+<!--[[:Category:Backup]]-->
